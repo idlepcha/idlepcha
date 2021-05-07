@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idlepcha
 - 👀 I’m a Physics teacher and a STEM Education facilitator.
-- 🌱 I’m currently learning RNNs. 
+- 🌱 I’m currently learning RNNs from Udemy. I'm also undergoing the github campus advisor training. 
 - 💞️ I’m looking to collaborate on anything related to STEM Education, and education for ESD. 
 - 📫 How to reach me idlepcha@gmail.com , +91-9735918752
 
