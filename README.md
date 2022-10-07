@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @idlepcha
-- 👀 I’m a Physics teacher, STEM Educator, Tech Enthusiast and Active Learner.
+- 👀 Physics teacher and STEM Head at Paljor Namgyal Girls' School, Sikkim, India. 
+- Tech Enthusiast and Active Learner.
 - 🌱 Undergoing the github campus advisor training. 
-- 💞️ I’m looking to collaborate on anything related to STEM Education, and education for ESD. 
 - 📫 How to reach me idlepcha@gmail.com , +91-9735918752
 
 <!---
